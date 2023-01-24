@@ -1,0 +1,130 @@
+@media (max-width:992px){
+      .About-me-details {
+            margin-top: -99px;
+          }  
+    .About-me-details h1 {
+            font-size: 29px;
+          }
+      .About-img img {
+            width: 317px;
+          }
+
+}
+
+@media (max-width:950px){
+      .About-img-two img {
+            width: 462px;
+          }
+          .About-me-details-two h1 {
+            font-size: 18px;
+            margin-bottom: 11px;
+          }
+          .About-me-details-two h5 {
+            margin-bottom: 14px;
+          }
+
+          .About-me-details-two p {
+            font-size: 12px;
+            margin-bottom: 28px;
+          }
+}
+
+@media (max-width:920px){
+      .our-primary-menu {
+            position: relative;
+            margin-left: 28px;
+            margin-top: 23px;
+          }
+
+          .plan-number h2::after {
+            content: "";
+            position: absolute;
+            width: 63%;
+            height: 327%;
+            top: -42px;
+            left: 50px;
+            background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+            border-radius: 50%;
+            overflow: hidden;
+            z-index: -1;
+          }
+
+          .claim img{
+            width: 212px;
+          }
+}
+
+@media(max-width : 860px){
+      .our-primary-menu li a {
+            font-size: 9px;
+          }
+}
+
+@media (max-width:760px){
+      .blog-section-info {
+            width: 100%;
+            margin: auto;
+            text-align: center;
+          }
+}
+
+@media (max-width:750px){
+
+        .personal-text p {
+                font-size: 13px;
+                  }
+
+       .personal-text h2 {
+          font-size: 30px;
+            }
+
+            
+      .About-me-details {
+            margin-bottom: 206px;
+            width: 100%;
+          }
+
+          .justify-content-end {
+            justify-content: flex-end !important;
+            margin-top: -34px;
+          }
+}
+@media (max-width:700px){
+      .fetures-section-img img{
+            width: 300px;
+      }
+
+      .plan-number h2::after {
+            content: "";
+            position: absolute;
+            width: 47%;
+            height: 388%;
+            top: -45px;
+            left: 116px;
+            background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+            border-radius: 50%;
+            overflow: hidden;
+            z-index: -1;
+          }
+}
+
+@media (max-width:600px){
+      .fetures-section-img img{
+            width: 200px;
+      }
+
+      .fetures-section-img h3 {
+            font-size: 12px;
+          }
+
+          .fetures-section-img p {
+            font-size: 11px;
+          }
+}
+
+@media (max-width:500px){
+      .About-me-details {
+            margin-bottom: 206px;
+            width: 100%;
+          }
+}
